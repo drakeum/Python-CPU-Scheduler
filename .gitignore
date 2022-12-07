@@ -2,3 +2,5 @@
 /build/
 /old standalone schedulers/
 /.idea/
+/build/
+main.spec
