@@ -4,7 +4,7 @@ A representation of a CPU scheduler in Python. Scheduling algorithms include FCF
 ## Requirements and running the program
 This program requires that Python be installed on your computer. Any of the most recent versions should work.
 
-To run the program, open a cmd prompt in the the root directory (where main.py is located) and type
+To run the program, open a cmd prompt in the the root directory (where main.py is located) and run
 
 `python main.py`
 
